@@ -30,8 +30,8 @@ var dictionary = {
         'es': 'Hola! Soy Sebastián'
     },
     'home-subtitle':{
-        'en': 'Systems Engineer and Frontend Developer.',
-        'es': 'Ingeniero de Sistemas y Desarrollador Frontend.'
+        'en': 'Full Stack Developer and Systems Engineer.',
+        'es': 'Desarrollador Full Stack e Ingeniero de Sistemas.'
     },
     'home-contactme':{
         'en': 'Contact Me',
@@ -75,8 +75,8 @@ var dictionary = {
         'es': 'Español - Inglés (Intermedio)'
     },
     'about-description':{
-        'en': 'Frontend Developer and Systems Engineer, with knowledge of web technologies, programming languages and design.<br><br>I am a responsible person with ease of working individually and as a team, always focused on developing quality software.',
-        'es': 'Desarrollador Frontend e Ingeniero de Sistemas, con conocimientos en tecnologías web, lenguajes de programación y diseño.<br><br> Soy una persona responsable con facilidad para trabajar individualmente y en equipo, siempre enfocado en desarrollar software de calidad.'
+        'en': 'Full Stack Developer and Systems Engineer, with knowledge of web technologies, programming languages and design.<br><br>I am a responsible person with ease of working individually and as a team, always focused on developing quality software.',
+        'es': 'Desarrollador Full Stack e Ingeniero de Sistemas, con conocimientos en tecnologías web, lenguajes de programación y diseño.<br><br> Soy una persona responsable con facilidad para trabajar individualmente y en equipo, siempre enfocado en desarrollar software de calidad.'
     },
     'about-CV':{
         'en': 'Download CV',
@@ -161,8 +161,8 @@ var dictionary = {
         'es': 'Educación Básica, Media y Superior'
     },
     'Junior Developer':{
-        'en': 'Software Developer',
-        'es': 'Desarrollador de software'
+        'en': 'Full Stack Developer',
+        'es': 'Desarrollador Full Stack'
     },
     'Functions':{
         'en': 'Functions',
@@ -181,24 +181,28 @@ var dictionary = {
         'es': 'Diligenciamiento de la herramienta autodiagnostico para la implementación de la Política de Gobierno Digital.'
     },
     'BF1':{
-        'en': 'Implementation of new functions and features in its main software BNET ERP and in the different developments of the company.',
-        'es': 'Implementación de nuevas funciones y características en su software principal BNET ERP y en los diferentes desarrollos de la empresa.'
+        'en': 'Participation and creation of new web applications.',
+        'es': 'Participación y creación de nuevas aplicaciones web.'
     },
     'BF2':{
-        'en': 'Correction of errors in the different applications of the company.',
-        'es': 'Corrección de errores en las diferentes aplicaciones de la empresa.'
+        'en': 'Implementation of new functions and features in your web projects.',
+        'es': 'Implementación de nuevas funciones y características en sus proyectos web.'
     },
     'BF3':{
-        'en': 'Mockup Creation.',
-        'es': 'Creación de Mockups.'
+        'en': 'Correction of errors and support in the different web applications of the company.',
+        'es': 'Corrección de errores y soporte en las diferentes aplicaciones web de la empresa.'
     },
     'BF4':{
         'en': 'Development of user interfaces.',
         'es': 'Desarrollo de interfaces de usuario.'
     },
     'BF5':{
-        'en': 'Development of new web applications.',
-        'es': 'Desarrollo de nuevas aplicaciones web.'
+        'en': 'Implementation of new functions and features in its main ERP software and in the different developments of the company.',
+        'es': 'Implementación de nuevas funciones y características en su software principal ERP y en los diferentes desarrollos de la empresa.'
+    },
+    'BF6':{
+        'en': 'Bug fixes and support in your core ERP software.',
+        'es': 'Corrección de errores y soporte en su software principal ERP.'
     },
     /*==================== PORTFOLIO DICTIONARY  ====================*/
     'portfolio-title':{
