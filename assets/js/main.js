@@ -205,8 +205,8 @@ function downloadCV(){
     var aboutPDF = document.getElementById('about-pdf')
 
     if(languageTitle == "Translate to spanish"){
-        aboutPDF.href = 'assets/pdf/Sebastian-CV.pdf';
+        aboutPDF.href = 'assets/pdf/CV-SEBASTIAN IBAGUE CASTRO (ENGLISH).pdf';
     }else{
-        aboutPDF.href = 'assets/pdf/CV-Sebastian.pdf';
+        aboutPDF.href = 'assets/pdf/CV-SEBASTIAN IBAGUE CASTRO (ESPAÑOL).pdf';
     }
 }
